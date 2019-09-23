@@ -1,7 +1,7 @@
 # Hindi-Vowel-Consonant-Classification
 Given an image containing a hindi vowel and a consonant, predict which vowel and consonant it contains.
 
-# Languages and dataset
+# Language and dataset
 
 Each image is 64x64 pixels, and contains the character to be classified superimposed over a random scenic background. Training set comprises of 10,000 images.
 
